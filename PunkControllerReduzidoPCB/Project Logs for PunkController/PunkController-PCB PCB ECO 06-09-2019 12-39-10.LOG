@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetI1_3 Pin=U1-17
+Added Pin To Net: NetName=NetICSP_3 Pin=U1-17
+Added Pin To Net: NetName=NetFimCurso1_4 Pin=U1-22
+Added Room: Name=PunkController-Schematics

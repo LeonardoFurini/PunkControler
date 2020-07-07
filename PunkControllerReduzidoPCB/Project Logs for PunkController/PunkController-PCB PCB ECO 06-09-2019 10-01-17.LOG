@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=Power
+Change Component Designator: OldDesignator=P2 NewDesignator=Motor
+Change Component Designator: OldDesignator=P3 NewDesignator=ICSP
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetICSP_1
+Change Net Name : Old Net Name=NetP3_4 New Net Name=NetICSP_4
+Added Room: Name=PunkController-Schematics

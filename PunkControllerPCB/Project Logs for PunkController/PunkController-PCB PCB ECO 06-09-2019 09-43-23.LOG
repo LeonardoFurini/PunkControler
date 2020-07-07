@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P2 Old Footprint=HDR1x4M New Footprint=KRE-4
+Change Component Footprint: Designator=P1 Old Footprint=MOLEX 2x1 New Footprint=KRE-2
+Change Component Comment : Designator=P3 Old Comment=ICSP New Comment=Header 3X2
+Change Component Comment : Designator=P2 Old Comment=Motor New Comment=Header 1x4
+Change Component Comment : Designator=P1 Old Comment=Power New Comment=Header 2
+Change Component Library : Designator=I2C Old Library=Connectors Library.IntLib New Library=Symbols.SchLib
+Change Component Library : Designator=OLED Old Library=Connectors Library.IntLib New Library=Symbols.SchLib
+Change Component Library : Designator=P1 Old Library=Connectors Library.IntLib New Library=Symbols.SchLib
+Change Component Library : Designator=P2 Old Library=Connectors Library.IntLib New Library=Symbols.SchLib
+Added Room: Name=PunkController-Schematics

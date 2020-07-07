@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PunkController-PCB.PcbDoc   11/09/2019  09:43:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PunkController-PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T2      30mil (0.762mm)                                           Round             32        PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             9         PTH        0.00inch (0.00mm)
+T4      47mil (1.2mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T5      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              67
+
+Total Processing Time (hh:mm:ss) : 00:00:00

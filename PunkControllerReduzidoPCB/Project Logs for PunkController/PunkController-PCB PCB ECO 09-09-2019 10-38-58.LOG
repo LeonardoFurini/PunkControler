@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetFimCurso_1 Pin=FimCurso-1
+Removed Pin From Net: NetName=GND Pin=FimCurso-2
+Removed Pin From Net: NetName=GND Pin=FimCurso-3
+Removed Pin From Net: NetName=NetFimCurso_4 Pin=FimCurso-4
+Removed Pin From Net: NetName=+5 Pin=I1-1
+Removed Pin From Net: NetName=GND Pin=I1-2
+Removed Pin From Net: NetName=NetI1_3 Pin=I1-3
+Removed Pin From Net: NetName=NetI1_4 Pin=I1-4
+Removed Pin From Net: NetName=NetI1_3 Pin=OLED-3
+Removed Pin From Net: NetName=NetI1_4 Pin=OLED-4
+Removed Pin From Net: NetName=NetFimCurso_1 Pin=U1-19
+Removed Pin From Net: NetName=NetFimCurso_4 Pin=U1-22
+Removed Pin From Net: NetName=NetI1_4 Pin=U1-27
+Removed Pin From Net: NetName=NetI1_3 Pin=U1-28
+Removed Member From Class: ClassName=PunkController-Schematics Member=FimCurso
+Removed Member From Class: ClassName=PunkController-Schematics Member=I1
+Added Component: Designator=P?(HDR1X4-D)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(HDR1X4-D)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetFimCurso_1 Pin=OLED-3
+Added Pin To Net: NetName=NetFimCurso_4 Pin=OLED-4
+Added Pin To Net: NetName=+5 Pin=P?-1
+Added Pin To Net: NetName=NetI1_3 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=NetFimCurso_1 Pin=P?-3
+Added Pin To Net: NetName=NetFimCurso_4 Pin=P?-4
+Added Pin To Net: NetName=NetI1_4 Pin=P?-4
+Added Pin To Net: NetName=NetI1_3 Pin=U1-19
+Added Pin To Net: NetName=NetI1_4 Pin=U1-22
+Added Pin To Net: NetName=NetFimCurso_4 Pin=U1-27
+Added Pin To Net: NetName=NetFimCurso_1 Pin=U1-28
+Change Net Name : Old Net Name=NetFimCurso_1 New Net Name=NetOLED_3
+Change Net Name : Old Net Name=NetFimCurso_4 New Net Name=NetOLED_4
+Change Net Name : Old Net Name=NetI1_3 New Net Name=NetP?_1
+Change Net Name : Old Net Name=NetI1_4 New Net Name=NetP?_4
+Added Member To Class: ClassName=PunkController-Schematics Member=Component P? I2C
+Added Member To Class: ClassName=PunkController-Schematics Member=Component P? Curso
+Added Room: Name=PunkController-Schematics

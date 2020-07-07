@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=* NewDesignator=U1
+Change Component Designator: OldDesignator=* NewDesignator=Y1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetU2_8
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetU2_7
+Added Member To Class: ClassName=PunkController-Schematics Member=Component U2 ATMEGA328P-MU
+Added Room: Name=PunkController-Schematics

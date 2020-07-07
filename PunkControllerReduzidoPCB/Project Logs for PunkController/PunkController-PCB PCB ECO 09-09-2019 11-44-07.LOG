@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=+5 Pin=U2-3
+Removed Member From Class: ClassName=PunkController-Schematics Member=U2
+Added Component: Designator=*(AMS1117)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=+5 Pin=*-2
+Added Pin To Net: NetName=VCC Pin=*-3
+Added Pin To Net: NetName=+5 Pin=*-4
+Added Member To Class: ClassName=PunkController-Schematics Member=Component * AMS1117
+Added Room: Name=PunkController-Schematics

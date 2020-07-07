@@ -1,0 +1,4 @@
+Change Component Comment : Designator=I2C Old Comment=Header 1x4 New Comment=I2C
+Change Component Comment : Designator=P2 Old Comment=Header 1x4 New Comment=Motor
+Change Component Comment : Designator=P1 Old Comment=Header 2 New Comment=Power
+Added Room: Name=PunkController-Schematics

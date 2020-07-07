@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=FimCurso1 NewDesignator=FimCurso
+Change Net Name : Old Net Name=NetFimCurso1_1 New Net Name=NetFimCurso_1
+Change Net Name : Old Net Name=NetFimCurso1_4 New Net Name=NetFimCurso_4
+Added Room: Name=PunkController-Schematics

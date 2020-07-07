@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetR1_1 Pin=ICSP-5
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetICSP_5
+Added Member To Class: ClassName=PunkController-Schematics Member=Component C2 22pF
+Added Room: Name=PunkController-Schematics

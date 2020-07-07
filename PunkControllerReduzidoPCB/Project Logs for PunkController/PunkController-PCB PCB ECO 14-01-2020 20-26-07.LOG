@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetBuzzer1_2 Pin=Q1-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Change Component Comment : Designator=Y1 Old Comment=16MHz New Comment=Crystal-SMD
+Change Component Comment : Designator=P1 Old Comment=FimDeCurso New Comment=Curso
+Change Component Designator: OldDesignator=Buzzer NewDesignator=Buzzer1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetBuzzer1_2 Pin=Q1-3
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ1_1
+Added Room: Name=PunkController-Schematics

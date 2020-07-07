@@ -1,0 +1,9 @@
+Added Component: Designator=FimCurso(HDR1x4M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=FimCurso-2
+Added Pin To Net: NetName=GND Pin=FimCurso-3
+Added Pin To Net: NetName=NetFimCurso_1 Pin=FimCurso-1
+Added Pin To Net: NetName=NetFimCurso_1 Pin=U1-19
+Added Net: Name=NetFimCurso_1
+Added Member To Class: ClassName=PunkController-Schematics Member=Component FimCurso
+Added Room: Name=PunkController-Schematics

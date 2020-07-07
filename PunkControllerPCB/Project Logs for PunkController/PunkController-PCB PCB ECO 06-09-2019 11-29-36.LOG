@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=PunkController-Schematics Member=C?
+Change Component Designator: OldDesignator=A4988 NewDesignator=A1
+Change Component Designator: OldDesignator=Buzzer NewDesignator=Buzzer1
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=FimCurso NewDesignator=FimCurso1
+Change Component Designator: OldDesignator=I2C NewDesignator=I1
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=SW NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Net Name : Old Net Name=NetA4988_1 New Net Name=NetA1_1
+Change Net Name : Old Net Name=NetA4988_2 New Net Name=NetA1_2
+Change Net Name : Old Net Name=NetA4988_3 New Net Name=NetA1_3
+Change Net Name : Old Net Name=NetA4988_4 New Net Name=NetA1_4
+Change Net Name : Old Net Name=NetA4988_5 New Net Name=NetA1_5
+Change Net Name : Old Net Name=NetA4988_7 New Net Name=NetA1_7
+Change Net Name : Old Net Name=NetA4988_8 New Net Name=NetA1_8
+Change Net Name : Old Net Name=NetA4988_11 New Net Name=NetA1_11
+Change Net Name : Old Net Name=NetA4988_12 New Net Name=NetA1_12
+Change Net Name : Old Net Name=NetA4988_13 New Net Name=NetA1_13
+Change Net Name : Old Net Name=NetA4988_14 New Net Name=NetA1_14
+Change Net Name : Old Net Name=NetBuzzer_2 New Net Name=NetBuzzer1_2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetFimCurso_1 New Net Name=NetFimCurso1_1
+Change Net Name : Old Net Name=NetI2C_3 New Net Name=NetI1_3
+Change Net Name : Old Net Name=NetI2C_4 New Net Name=NetI1_4
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetSW_2 New Net Name=NetSW1_2
+Added Pin To Net: NetName=NetFimCurso1_4 Pin=FimCurso1-4
+Added Net: Name=NetFimCurso1_4
+Added Member To Class: ClassName=PunkController-Schematics Member=Component C4 470uf
+Added Room: Name=PunkController-Schematics
